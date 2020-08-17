@@ -45,3 +45,15 @@ GNU Affero General Public License v3.0
 ## Acknowledgments
 
 We thank J. Mitrovica of Harvard University for providing the GIA model. T. A. Shaw of Nanyang Technology University assisted with the preparation of the figures. Figure 1 used the image library of the Integration and Application Network, University of Maryland Center for Environmental Science (ian.umces.edu/imagelibrary/). Funding: N.S. was supported by an Outside Studies Program grant from Macquarie University and AINSE. B.P.H. is supported by the Singapore Ministry of Education Academic Research Fund MOE2018-T2-1-030, the National Research Foundation Singapore, and the Singapore Ministry of Education, under the Research Centers of Excellence initiative. This article is a contribution to PALSEA2 (Palaeo-Constraints on Sea-Level Rise), a working group of the International Union for Quaternary Sciences (INQUA), and International Geoscience Program (IGCP) Project 639, “Sea-Level Changes from Minutes to Millennia.” This work is Earth Observatory of Singapore contribution 294. K.R. received funding from the Australian Research Council (FT130100532)
+
+> Copyright (C) 2020 by Erica L. Ashe
+> This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+> This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+> A copy of the GNU General Public License comes with this program.  If not, see <http://www.gnu.org/licenses/>.
+
