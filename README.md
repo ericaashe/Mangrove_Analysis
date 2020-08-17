@@ -4,6 +4,8 @@ This repository containts the Python code base for [Saintilan et al. 2020](https
 
 Saintilan et al. (2020) is published in Science.
 
+[![DOI](https://zenodo.org/badge/288297682.svg)](https://zenodo.org/badge/latestdoi/288297682)
+
 **Project abstract:**
 
 > The rate of sea level rise has doubled from 1.8 millimeters per year over the 20th century to ∼3.4 millimeters per year in recent years. Saintilan et al. investigated the likely effects of this increasing rate of rise on coastal mangrove forest, a tropical ecosystem of key importance for coastal protection (see the Perspective by Lovelock). They reviewed data on mangrove accretion 10,000 to 7000 years before present, when the rate of sea level rise was even higher than today as a result of glacial ice melt. Their analysis suggests an upper threshold of 7 millimeters per year as the maximum rate of sea level rise associated with mangrove vertical development, beyond which the ecosystem fails to keep up with the change. Under projected rates of sea level rise, they predict that a deficit between accretion and sea level rise is likely to commence in the next 30 years.
